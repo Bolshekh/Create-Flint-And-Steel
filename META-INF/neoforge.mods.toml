@@ -1,0 +1,12 @@
+
+modLoader = 'javafml'
+loaderVersion = '[1,)'
+license = 'MIT'
+showAsResourcePack = false
+mods = [
+	{ modId = 'create_flint_and_steel',
+          version = '1.0.0',
+          displayName = 'Create: Flint And Steel',
+          description = 'Adds a few missing recipes to make flint more useful and some stone recipes',
+          logoFile = 'create-flint-and-steel_pack.png' },
+]

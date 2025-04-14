@@ -1,0 +1,12 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_brick"
+        }
+    ],
+    "processingTime": 50,
+    "results": [{
+        "item": "minecraft:netherrack"
+    }]
+}

@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "tag": "forge:cobblestone"
+    },
+    "result": "minecraft:cobbled_deepslate"
+}

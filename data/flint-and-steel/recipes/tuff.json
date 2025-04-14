@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "minecraft:andesite"
+        },
+        {
+            "item": "minecraft:diorite"
+        },
+        {
+            "item": "minecraft:granite"
+        },
+        {
+            "item": "minecraft:deepslate"
+        }
+    ],
+    "result": {
+        "item": "minecraft:tuff",
+        "count": 4
+    }
+}
